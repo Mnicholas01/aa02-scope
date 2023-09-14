@@ -16,9 +16,9 @@ let sandwich2 = sandwichMaker(); // => returns a function
 sandwich2("pb") // => "One sandwich with tomato and pb"
 
 ***********************************************************************/
-
-// Your code here 
-
+// will return another function that will take in a string and add it to the sandwhich order
+// Your code here
+const sandwhichMaker = () =>
 /**************DO NOT MODIFY ANYTHING UNDER THIS  LINE*****************/
 
 try {
